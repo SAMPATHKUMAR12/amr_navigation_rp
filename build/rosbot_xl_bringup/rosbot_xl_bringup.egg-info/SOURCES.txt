@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+config/ekf.yaml
+config/laser_filter.yaml
+config/microros_localhost_only.xml
+launch/bringup.launch.py
+launch/combined.launch.py
+launch/microros.launch.py
+resource/rosbot_xl_bringup
+rosbot_xl_bringup.egg-info/PKG-INFO
+rosbot_xl_bringup.egg-info/SOURCES.txt
+rosbot_xl_bringup.egg-info/dependency_links.txt
+rosbot_xl_bringup.egg-info/entry_points.txt
+rosbot_xl_bringup.egg-info/requires.txt
+rosbot_xl_bringup.egg-info/top_level.txt
+rosbot_xl_bringup.egg-info/zip-safe

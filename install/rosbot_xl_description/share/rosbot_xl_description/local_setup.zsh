@@ -1,0 +1,1 @@
+/home/sampathkumaritagi/ros_ws/build/rosbot_xl_description/ament_cmake_environment_hooks/local_setup.zsh

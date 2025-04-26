@@ -1,0 +1,29 @@
+running develop
+running egg_info
+creating rosbot_xl_bringup.egg-info
+writing rosbot_xl_bringup.egg-info/PKG-INFO
+writing dependency_links to rosbot_xl_bringup.egg-info/dependency_links.txt
+writing entry points to rosbot_xl_bringup.egg-info/entry_points.txt
+writing requirements to rosbot_xl_bringup.egg-info/requires.txt
+writing top-level names to rosbot_xl_bringup.egg-info/top_level.txt
+writing manifest file 'rosbot_xl_bringup.egg-info/SOURCES.txt'
+reading manifest file 'rosbot_xl_bringup.egg-info/SOURCES.txt'
+writing manifest file 'rosbot_xl_bringup.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/lib/python3.10/site-packages/rosbot-xl-bringup.egg-link (link to .)
+
+Installed /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup
+running symlink_data
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/ament_index
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/ament_index/resource_index
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/ament_index/resource_index/packages
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/resource/rosbot_xl_bringup -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/ament_index/resource_index/packages
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/package.xml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/launch
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/launch/microros.launch.py -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/launch
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/launch/bringup.launch.py -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/launch
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/launch/combined.launch.py -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/launch
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/config/ekf.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/config/laser_filter.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/config/microros_localhost_only.xml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup/share/rosbot_xl_bringup/config

@@ -1,0 +1,1 @@
+/home/sampathkumaritagi/ros_ws/build/rosbot_xl_bringup/launch/microros.launch.py

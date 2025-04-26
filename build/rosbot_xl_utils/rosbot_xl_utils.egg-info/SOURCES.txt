@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+firmware/firmware-v1.4.0.bin
+resource/rosbot_xl_utils
+rosbot_xl_utils/__init__.py
+rosbot_xl_utils/flash-firmware.py
+rosbot_xl_utils/flash_firmware.py
+rosbot_xl_utils.egg-info/PKG-INFO
+rosbot_xl_utils.egg-info/SOURCES.txt
+rosbot_xl_utils.egg-info/dependency_links.txt
+rosbot_xl_utils.egg-info/entry_points.txt
+rosbot_xl_utils.egg-info/requires.txt
+rosbot_xl_utils.egg-info/top_level.txt
+rosbot_xl_utils.egg-info/zip-safe

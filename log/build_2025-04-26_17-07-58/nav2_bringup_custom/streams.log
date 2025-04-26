@@ -1,0 +1,68 @@
+[0.018s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake /home/sampathkumaritagi/ros_ws/src/nav2_bringup_custom -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom
+[0.241s] -- The C compiler identification is GNU 11.4.0
+[0.242s] -- The CXX compiler identification is GNU 11.4.0
+[0.242s] -- Detecting C compiler ABI info
+[0.242s] -- Detecting C compiler ABI info - done
+[0.242s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.242s] -- Detecting C compile features
+[0.242s] -- Detecting C compile features - done
+[0.242s] -- Detecting CXX compiler ABI info
+[0.242s] -- Detecting CXX compiler ABI info - done
+[0.242s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.242s] -- Detecting CXX compile features
+[0.242s] -- Detecting CXX compile features - done
+[0.244s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.354s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.400s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.434s] -- Found nav2_common: 1.1.18 (/opt/ros/humble/share/nav2_common/cmake)
+[0.434s] -- Setting build type to Release as none was specified.
+[0.437s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.531s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.534s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.535s] -- Added test 'lint_cmake' to check CMake code style
+[0.536s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.537s] -- Added test 'xmllint' to check XML markup files
+[0.538s] -- Configuring done
+[0.541s] -- Generating done
+[0.542s] -- Build files have been written to: /home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom
+[0.545s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake /home/sampathkumaritagi/ros_ws/src/nav2_bringup_custom -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom
+[0.547s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom -- -j16 -l16
+[0.574s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom -- -j16 -l16
+[0.575s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom
+[0.580s] -- Install configuration: "Release"
+[0.580s] -- Execute custom install script
+[0.581s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/bringup_launch.py
+[0.587s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/cloned_multi_tb3_simulation_launch.py
+[0.594s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/localization_launch.py
+[0.601s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/navigation_launch.py
+[0.607s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/rviz_launch.py
+[0.615s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/slam_launch.py
+[0.623s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/tb3_simulation_launch.py
+[0.629s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/unique_multi_tb3_simulation_launch.py
+[0.636s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/maps/turtlebot3_world.pgm
+[0.642s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/maps/turtlebot3_world.yaml
+[0.649s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/rviz/nav2_default_view.rviz
+[0.655s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/rviz/nav2_namespaced_view.rviz
+[0.662s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/worlds/waffle.model
+[0.669s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/worlds/world_only.model
+[0.675s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/params/nav2_multirobot_params_1.yaml
+[0.681s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/params/nav2_multirobot_params_2.yaml
+[0.688s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/params/nav2_multirobot_params_all.yaml
+[0.694s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/params/nav2_params.yaml
+[0.701s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/urdf/turtlebot3_waffle.urdf
+[0.707s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/ament_index/resource_index/package_run_dependencies/nav2_bringup_custom
+[0.714s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/ament_index/resource_index/parent_prefix_path/nav2_bringup_custom
+[0.723s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/ament_prefix_path.sh
+[0.730s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/ament_prefix_path.dsv
+[0.737s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/path.sh
+[0.745s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/path.dsv
+[0.751s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.bash
+[0.758s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.sh
+[0.765s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.zsh
+[0.772s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.dsv
+[0.779s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/package.dsv
+[0.786s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/ament_index/resource_index/packages/nav2_bringup_custom
+[0.792s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/cmake/nav2_bringup_customConfig.cmake
+[0.799s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/cmake/nav2_bringup_customConfig-version.cmake
+[0.806s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/package.xml
+[0.815s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom

@@ -1,0 +1,117 @@
+[0.018s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake /home/sampathkumaritagi/ros_ws/src/husarion_gz_worlds -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds
+[0.243s] -- The C compiler identification is GNU 11.4.0
+[0.243s] -- The CXX compiler identification is GNU 11.4.0
+[0.243s] -- Detecting C compiler ABI info
+[0.243s] -- Detecting C compiler ABI info - done
+[0.243s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.243s] -- Detecting C compile features
+[0.243s] -- Detecting C compile features - done
+[0.243s] -- Detecting CXX compiler ABI info
+[0.243s] -- Detecting CXX compiler ABI info - done
+[0.243s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.243s] -- Detecting CXX compile features
+[0.243s] -- Detecting CXX compile features - done
+[0.244s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.354s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.398s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.467s] -- Configuring done
+[0.470s] -- Generating done
+[0.472s] -- Build files have been written to: /home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds
+[0.476s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake /home/sampathkumaritagi/ros_ws/src/husarion_gz_worlds -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds
+[0.478s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds -- -j16 -l16
+[0.507s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds -- -j16 -l16
+[0.516s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds
+[0.522s] -- Install configuration: ""
+[0.522s] -- Execute custom install script
+[0.523s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/config/teleop.config
+[0.529s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/launch/gz_sim.launch.py
+[0.539s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/meshes/conference_table.stl
+[0.546s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/model.config
+[0.552s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/ConferenceTable/model.sdf
+[0.559s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/meshes/door.stl
+[0.565s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/model.config
+[0.571s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Door/model.sdf
+[0.578s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/HusarionLogo/meshes/husarion_logo.dae
+[0.583s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/meshes/kitchen.stl
+[0.590s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/model.config
+[0.597s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Kitchen/model.sdf
+[0.605s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/meshes/laptop.stl
+[0.612s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/model.config
+[0.620s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Laptop/model.sdf
+[0.627s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/astra.dae
+[0.633s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/box.dae
+[0.640s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/rplidar.dae
+[0.646s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/upper.dae
+[0.652s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/meshes/wheel.dae
+[0.659s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/model.config
+[0.665s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Rosbot/model.sdf
+[0.672s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/black_concrete.png
+[0.678s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_1.mtl
+[0.685s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_1.obj
+[0.691s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_10.mtl
+[0.697s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_10.obj
+[0.703s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_11.mtl
+[0.709s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_11.obj
+[0.717s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_12.mtl
+[0.725s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_12.obj
+[0.732s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_13.mtl
+[0.739s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_13.obj
+[0.746s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_14.mtl
+[0.755s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_14.obj
+[0.761s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_2.mtl
+[0.768s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_2.obj
+[0.776s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_3.mtl
+[0.783s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_3.obj
+[0.789s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_4.mtl
+[0.795s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_4.obj
+[0.802s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_5.mtl
+[0.808s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_5.obj
+[0.815s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_6.mtl
+[0.824s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_6.obj
+[0.831s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_7.mtl
+[0.838s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_7.obj
+[0.845s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_8.mtl
+[0.852s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_8.obj
+[0.860s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_9.mtl
+[0.866s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/floor_9.obj
+[0.872s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/model.material
+[0.879s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_1.mtl
+[0.885s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_1.obj
+[0.892s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_2.mtl
+[0.899s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wall_2.obj
+[0.908s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/white_carpet.png
+[0.915s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/white_tiles.png
+[0.921s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/white_wall.png
+[0.929s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wood1.png
+[0.935s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/meshes/wood2.png
+[0.941s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/model.config
+[0.947s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Surfaces/model.sdf
+[0.955s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/meshes/tv.stl
+[0.961s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/model.config
+[0.967s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/Tv/model.sdf
+[0.973s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/meshes/water_dispenser.dae
+[0.979s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/model.config
+[0.985s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/models/WaterDispenser/model.sdf
+[0.992s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/empty_with_plugins.sdf
+[0.999s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/husarion_office.sdf
+[1.006s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/husarion_world.sdf
+[1.013s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/worlds/sonoma_raceway.sdf
+[1.020s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/maps/husarion_world.pgm
+[1.028s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/maps/husarion_world.yaml
+[1.035s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/husarion_gz_worlds.sh
+[1.041s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/ament_index/resource_index/package_run_dependencies/husarion_gz_worlds
+[1.048s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/ament_index/resource_index/parent_prefix_path/husarion_gz_worlds
+[1.054s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/ament_prefix_path.sh
+[1.060s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/ament_prefix_path.dsv
+[1.066s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/path.sh
+[1.075s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/environment/path.dsv
+[1.080s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.bash
+[1.087s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.sh
+[1.092s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.zsh
+[1.098s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/local_setup.dsv
+[1.104s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/package.dsv
+[1.110s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/ament_index/resource_index/packages/husarion_gz_worlds
+[1.117s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/cmake/husarion_gz_worldsConfig.cmake
+[1.125s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/cmake/husarion_gz_worldsConfig-version.cmake
+[1.132s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/husarion_gz_worlds/share/husarion_gz_worlds/package.xml
+[1.139s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/husarion_gz_worlds

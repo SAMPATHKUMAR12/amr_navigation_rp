@@ -1,0 +1,111 @@
+[0.020s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake /home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller
+[0.246s] -- The C compiler identification is GNU 11.4.0
+[0.246s] -- The CXX compiler identification is GNU 11.4.0
+[0.246s] -- Detecting C compiler ABI info
+[0.246s] -- Detecting C compiler ABI info - done
+[0.246s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.246s] -- Detecting C compile features
+[0.246s] -- Detecting C compile features - done
+[0.246s] -- Detecting CXX compiler ABI info
+[0.246s] -- Detecting CXX compiler ABI info - done
+[0.246s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.246s] -- Detecting CXX compile features
+[0.246s] -- Detecting CXX compile features - done
+[0.246s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.357s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.400s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.424s] -- Found controller_interface: 2.50.0 (/opt/ros/humble/share/controller_interface/cmake)
+[0.459s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.463s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.469s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.478s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.490s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.648s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.652s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.672s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.717s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.720s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.735s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.737s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.743s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.752s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.760s] -- Looking for pthread.h
+[0.812s] -- Looking for pthread.h - found
+[0.812s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.871s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.872s] -- Found Threads: TRUE  
+[0.913s] -- Found generate_parameter_library: 0.4.0 (/opt/ros/humble/share/generate_parameter_library/cmake)
+[0.915s] -- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[0.935s] -- Found nav_msgs: 4.8.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.947s] -- Found realtime_tools: 2.13.0 (/opt/ros/humble/share/realtime_tools/cmake)
+[0.961s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[0.964s] -- Found tf2_msgs: 0.25.12 (/opt/ros/humble/share/tf2_msgs/cmake)
+[1.042s] -- Configuring done
+[1.066s] -- Generating done
+[1.070s] -- Build files have been written to: /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller
+[1.079s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake /home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller
+[1.080s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller -- -j16 -l16
+[1.115s] [ 16%] [34m[1mRunning `/opt/ros/humble/bin/generate_parameter_library_cpp /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller_parameters.hpp /home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/src/mecanum_drive_controller_parameter.yaml `[0m
+[2.140s] [ 33%] [34m[1mCreating deprecated header file /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller/include/mecanum_drive_controller_parameters.hpp[0m
+[2.239s] [ 33%] Built target mecanum_drive_controller_parameters
+[2.297s] [ 50%] [32mBuilding CXX object CMakeFiles/mecanum_drive_controller.dir/src/mecanum_drive_controller.cpp.o[0m
+[2.299s] [ 66%] [32mBuilding CXX object CMakeFiles/mecanum_drive_controller.dir/src/odometry.cpp.o[0m
+[2.299s] [ 83%] [32mBuilding CXX object CMakeFiles/mecanum_drive_controller.dir/src/speed_limiter.cpp.o[0m
+[4.475s] In file included from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller.hpp:45[m[K,
+[4.475s]                  from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/src/mecanum_drive_controller.cpp:30[m[K:
+[4.475s] [01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_box.h:22:97:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: This header include is deprecated. Please update your code to use 'realtime_box.hpp' header.[m[K’
+[4.475s]    22 |   "This header include is deprecated. Please update your code to use 'realtime_box.hpp' header."[01;36m[K)[m[K  //NOLINT
+[4.475s]       |                                                                                                 [01;36m[K^[m[K
+[4.475s] In file included from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller.hpp:46[m[K,
+[4.475s]                  from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/src/mecanum_drive_controller.cpp:30[m[K:
+[4.475s] [01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_buffer.h:22:100:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: This header include is deprecated. Please update your code to use 'realtime_buffer.hpp' header.[m[K’
+[4.475s]    22 |   "This header include is deprecated. Please update your code to use 'realtime_buffer.hpp' header."[01;36m[K)[m[K  //NOLINT
+[4.476s]       |                                                                                                    [01;36m[K^[m[K
+[4.476s] In file included from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller.hpp:47[m[K,
+[4.476s]                  from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/src/mecanum_drive_controller.cpp:30[m[K:
+[4.476s] [01m[K/opt/ros/humble/include/realtime_tools/realtime_tools/realtime_publisher.h:22:103:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: This header include is deprecated. Please update your code to use 'realtime_publisher.hpp' header.[m[K’
+[4.476s]    22 |   "This header include is deprecated. Please update your code to use 'realtime_publisher.hpp' header."[01;36m[K)[m[K  //NOLINT
+[4.476s]       |                                                                                                       [01;36m[K^[m[K
+[4.483s] In file included from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller.hpp:50[m[K,
+[4.483s]                  from [01m[K/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller/src/mecanum_drive_controller.cpp:30[m[K:
+[4.483s] [01m[K/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller/include/mecanum_drive_controller_parameters.hpp:1:175:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: #include "mecanum_drive_controller_parameters.hpp" is deprecated. Use #include <mecanum_drive_controller/mecanum_drive_controller_parameters.hpp> instead.[m[K’
+[4.483s]     1 | "#include \"mecanum_drive_controller_parameters.hpp\" is deprecated. Use #include <mecanum_drive_controller/mecanum_drive_controller_parameters.hpp> instead."[01;36m[K)[m[K
+[4.483s]       |                                                                                                                                                               [01;36m[K^[m[K
+[4.483s] 
+[17.456s] [100%] [32m[1mLinking CXX shared library libmecanum_drive_controller.so[0m
+[18.023s] [100%] Built target mecanum_drive_controller
+[18.034s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller -- -j16 -l16
+[18.035s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller
+[18.041s] -- Install configuration: ""
+[18.042s] -- Execute custom install script
+[18.042s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller_parameters.hpp
+[18.050s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller//mecanum_drive_plugin.xml
+[18.057s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller/mecanum_drive_controller.hpp
+[18.065s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller/odometry.hpp
+[18.072s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller/speed_limiter.hpp
+[18.080s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/include/mecanum_drive_controller/mecanum_drive_controller/visibility_control.h
+[18.089s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/environment/library_path.sh
+[18.097s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/environment/library_path.dsv
+[18.105s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/ament_index/resource_index/package_run_dependencies/mecanum_drive_controller
+[18.114s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/ament_index/resource_index/parent_prefix_path/mecanum_drive_controller
+[18.122s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/environment/ament_prefix_path.sh
+[18.130s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/environment/ament_prefix_path.dsv
+[18.138s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/environment/path.sh
+[18.147s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/environment/path.dsv
+[18.155s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/local_setup.bash
+[18.163s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/local_setup.sh
+[18.171s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/local_setup.zsh
+[18.179s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/local_setup.dsv
+[18.188s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/package.dsv
+[18.196s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/ament_index/resource_index/packages/mecanum_drive_controller
+[18.204s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/mecanum_drive_controller
+[18.214s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+[18.222s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/cmake/ament_cmake_export_targets-extras.cmake
+[18.230s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/cmake/mecanum_drive_controllerConfig.cmake
+[18.238s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/cmake/mecanum_drive_controllerConfig-version.cmake
+[18.246s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/package.xml
+[18.254s] -- Installing: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/lib/libmecanum_drive_controller.so
+[18.263s] -- Set runtime path of "/home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/lib/libmecanum_drive_controller.so" to ""
+[18.263s] -- Installing: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/cmake/export_mecanum_drive_controllerExport.cmake
+[18.263s] -- Installing: /home/sampathkumaritagi/ros_ws/install/mecanum_drive_controller/share/mecanum_drive_controller/cmake/export_mecanum_drive_controllerExport-noconfig.cmake
+[18.265s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller

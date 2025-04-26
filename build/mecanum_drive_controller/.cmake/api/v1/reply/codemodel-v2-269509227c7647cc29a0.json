@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-c4c77f0e9f0fecc4a1dc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mecanum_drive_controller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mecanum_drive_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mecanum_drive_controller-7f0e2ee5051b7022f3e7.json",
+					"name" : "mecanum_drive_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mecanum_drive_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mecanum_drive_controller_parameters-02b39579901d22d0be5e.json",
+					"name" : "mecanum_drive_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mecanum_drive_controller_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mecanum_drive_controller_uninstall-804da95bcf0015eb38fb.json",
+					"name" : "mecanum_drive_controller_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-6bd3ac29eedf494cfb50.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sampathkumaritagi/ros_ws/build/mecanum_drive_controller",
+		"source" : "/home/sampathkumaritagi/ros_ws/src/husarion_controllers/mecanum_drive_controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

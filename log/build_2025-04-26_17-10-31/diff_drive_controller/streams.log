@@ -1,0 +1,46 @@
+[0.033s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/diff_drive_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/diff_drive_controller -- -j16 -l16
+[0.071s] [35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[0.071s] [35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[0.075s] [ 13%] Built target diff_drive_controller_parameters
+[0.081s] [ 26%] Built target gmock_main
+[0.083s] [ 46%] Built target gmock
+[0.085s] [35m[1mConsolidate compiler generated dependencies of target diff_drive_controller[0m
+[0.094s] [35m[1mConsolidate compiler generated dependencies of target test_load_diff_drive_controller[0m
+[0.103s] [ 73%] Built target diff_drive_controller
+[0.110s] [ 86%] Built target test_load_diff_drive_controller
+[0.112s] [35m[1mConsolidate compiler generated dependencies of target test_diff_drive_controller[0m
+[0.128s] [100%] Built target test_diff_drive_controller
+[0.265s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/diff_drive_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --build /home/sampathkumaritagi/ros_ws/build/diff_drive_controller -- -j16 -l16
+[0.269s] Invoking command in '/home/sampathkumaritagi/ros_ws/build/diff_drive_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/diff_drive_controller
+[0.286s] -- Install configuration: ""
+[0.286s] -- Execute custom install script
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/include/diff_drive_controller/diff_drive_controller_parameters.hpp
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller//diff_drive_plugin.xml
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/include/diff_drive_controller/diff_drive_controller/diff_drive_controller.hpp
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/include/diff_drive_controller/diff_drive_controller/odometry.hpp
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/include/diff_drive_controller/diff_drive_controller/speed_limiter.hpp
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/include/diff_drive_controller/diff_drive_controller/visibility_control.h
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/environment/library_path.sh
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/environment/library_path.dsv
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/ament_index/resource_index/package_run_dependencies/diff_drive_controller
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/ament_index/resource_index/parent_prefix_path/diff_drive_controller
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/environment/ament_prefix_path.sh
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/environment/ament_prefix_path.dsv
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/environment/path.sh
+[0.286s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/environment/path.dsv
+[0.287s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/local_setup.bash
+[0.287s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/local_setup.sh
+[0.287s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/local_setup.zsh
+[0.288s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/local_setup.dsv
+[0.288s] -- Symlinking: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/package.dsv
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/ament_index/resource_index/packages/diff_drive_controller
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/diff_drive_controller
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/cmake/ament_cmake_export_targets-extras.cmake
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake
+[0.289s] -- Up-to-date symlink: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/package.xml
+[0.289s] -- Up-to-date: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/lib/libdiff_drive_controller.so
+[0.289s] -- Up-to-date: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/cmake/export_diff_drive_controllerExport.cmake
+[0.289s] -- Up-to-date: /home/sampathkumaritagi/ros_ws/install/diff_drive_controller/share/diff_drive_controller/cmake/export_diff_drive_controllerExport-noconfig.cmake
+[0.342s] Invoked command in '/home/sampathkumaritagi/ros_ws/build/diff_drive_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_utils:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_bringup:/home/sampathkumaritagi/ros_ws/install/rosbot_xl_controller:/opt/ros/humble /usr/bin/cmake --install /home/sampathkumaritagi/ros_ws/build/diff_drive_controller

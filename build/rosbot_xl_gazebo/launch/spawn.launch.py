@@ -1,0 +1,1 @@
+/home/sampathkumaritagi/ros_ws/src/rosbot_xl_gazebo/launch/spawn.launch.py

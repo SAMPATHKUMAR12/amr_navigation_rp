@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+config/diff_drive_controller.yaml
+config/mecanum_drive_controller.yaml
+launch/controller.launch.py
+resource/rosbot_xl_controller
+rosbot_xl_controller.egg-info/PKG-INFO
+rosbot_xl_controller.egg-info/SOURCES.txt
+rosbot_xl_controller.egg-info/dependency_links.txt
+rosbot_xl_controller.egg-info/entry_points.txt
+rosbot_xl_controller.egg-info/requires.txt
+rosbot_xl_controller.egg-info/top_level.txt
+rosbot_xl_controller.egg-info/zip-safe

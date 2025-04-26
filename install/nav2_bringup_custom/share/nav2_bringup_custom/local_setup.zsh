@@ -1,0 +1,1 @@
+/home/sampathkumaritagi/ros_ws/build/nav2_bringup_custom/ament_cmake_environment_hooks/local_setup.zsh

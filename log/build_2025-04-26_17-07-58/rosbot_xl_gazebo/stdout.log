@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating rosbot_xl_gazebo.egg-info
+writing rosbot_xl_gazebo.egg-info/PKG-INFO
+writing dependency_links to rosbot_xl_gazebo.egg-info/dependency_links.txt
+writing entry points to rosbot_xl_gazebo.egg-info/entry_points.txt
+writing requirements to rosbot_xl_gazebo.egg-info/requires.txt
+writing top-level names to rosbot_xl_gazebo.egg-info/top_level.txt
+writing manifest file 'rosbot_xl_gazebo.egg-info/SOURCES.txt'
+reading manifest file 'rosbot_xl_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'rosbot_xl_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/lib/python3.10/site-packages/rosbot-xl-gazebo.egg-link (link to .)
+
+Installed /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo
+running symlink_data
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/ament_index
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/ament_index/resource_index
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/resource/rosbot_xl_gazebo -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/package.xml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/launch
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/launch/simulation.launch.py -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/launch
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/launch/spawn.launch.py -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/launch
+creating /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/config/gz_orbbec_astra_remappings.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/config/gz_intel_realsense_d435_remappings.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/config/gz_velodyne_puck_remappings.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/config/gz_slamtec_rplidar_remappings.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/config
+symbolically linking /home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/config/gz_stereolabs_zed_remappings.yaml -> /home/sampathkumaritagi/ros_ws/install/rosbot_xl_gazebo/share/rosbot_xl_gazebo/config

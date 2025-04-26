@@ -1,0 +1,1 @@
+/home/sampathkumaritagi/ros_ws/build/rosbot_xl_description/ament_cmake_core/rosbot_xl_descriptionConfig-version.cmake

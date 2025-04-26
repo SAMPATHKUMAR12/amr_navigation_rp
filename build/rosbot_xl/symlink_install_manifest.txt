@@ -1,0 +1,15 @@
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/ament_index/resource_index/package_run_dependencies/rosbot_xl
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/ament_index/resource_index/parent_prefix_path/rosbot_xl
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/environment/ament_prefix_path.sh
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/environment/ament_prefix_path.dsv
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/environment/path.sh
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/environment/path.dsv
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/local_setup.bash
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/local_setup.sh
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/local_setup.zsh
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/local_setup.dsv
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/package.dsv
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/ament_index/resource_index/packages/rosbot_xl
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/cmake/rosbot_xlConfig.cmake
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/cmake/rosbot_xlConfig-version.cmake
+/home/sampathkumaritagi/ros_ws/install/rosbot_xl/share/rosbot_xl/package.xml
