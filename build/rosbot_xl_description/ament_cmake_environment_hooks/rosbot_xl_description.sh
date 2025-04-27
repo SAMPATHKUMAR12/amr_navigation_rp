@@ -1,3 +1,0 @@
-ament_prepend_unique_value GAZEBO_MODEL_PATH "/home/sampathkumaritagi/ros_ws/install/rosbot_xl_description/share"
-ament_prepend_unique_value GZ_SIM_RESOURCE_PATH "/home/sampathkumaritagi/ros_ws/install/rosbot_xl_description/share"
-ament_prepend_unique_value IGN_GAZEBO_RESOURCE_PATH "/home/sampathkumaritagi/ros_ws/install/rosbot_xl_description/share"

@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/src/rosbot_xl_bringup/setup.py
