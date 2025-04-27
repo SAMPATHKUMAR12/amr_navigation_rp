@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/build/imu_sensor_broadcaster/include/imu_sensor_broadcaster/imu_sensor_broadcaster_parameters.hpp

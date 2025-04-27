@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/src/nav2_bringup_custom/launch/navigation_launch.py

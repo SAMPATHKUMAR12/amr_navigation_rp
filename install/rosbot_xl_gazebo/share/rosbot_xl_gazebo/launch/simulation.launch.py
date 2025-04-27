@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/build/rosbot_xl_gazebo/launch/simulation.launch.py

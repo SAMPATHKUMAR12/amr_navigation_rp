@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/src/rosbot_hardware_interfaces/include/rosbot_hardware_interfaces/rosbot_imu_sensor.hpp

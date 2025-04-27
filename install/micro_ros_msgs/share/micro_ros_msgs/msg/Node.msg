@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/src/micro_ros_msgs/msg/Node.msg

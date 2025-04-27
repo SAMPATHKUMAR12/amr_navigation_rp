@@ -1,1 +1,0 @@
-/home/sampathkumaritagi/ros_ws/src/ros_components_description/launch/gz_components.launch.py
